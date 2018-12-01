@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{D3A22CB1-E0C0-40A4-BA63-0C37C1B580F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOMvcCRUD", "ADOMvcCRUD\ADOMvcCRUD.csproj", "{3134BC4E-DD91-45BB-A580-B0BAED1751AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3A22CB1-E0C0-40A4-BA63-0C37C1B580F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A22CB1-E0C0-40A4-BA63-0C37C1B580F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A22CB1-E0C0-40A4-BA63-0C37C1B580F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A22CB1-E0C0-40A4-BA63-0C37C1B580F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3134BC4E-DD91-45BB-A580-B0BAED1751AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3134BC4E-DD91-45BB-A580-B0BAED1751AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3134BC4E-DD91-45BB-A580-B0BAED1751AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3134BC4E-DD91-45BB-A580-B0BAED1751AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1FD5001-95B3-4207-A689-5121C65CE30F}
+	EndGlobalSection
+EndGlobal
